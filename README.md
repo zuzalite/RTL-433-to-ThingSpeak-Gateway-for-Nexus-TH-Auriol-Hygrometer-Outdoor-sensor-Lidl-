@@ -1,0 +1,1 @@
+# RTL-433-to-ThingSpeak-Gateway-for-Nexus-TH-Auriol-Hygrometer-Outdoor-sensor-Lidl-
