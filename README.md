@@ -18,7 +18,7 @@ This script acts as a middleware gateway in a pipeline. In a typical deployment,
 
 ### Hardware Deployment Context
 * **Host Receiver:** Usually runs on a Linux system (Raspberry Pi, home server, or PC) equipped with an RTL-SDR USB dongle.
-* **Target Sensor:** 433 MHz ISM-band wireless sensor (specifically matching the **Nexus-TH** protocol with **House Code: 91**).
+* **Target Sensor:** 433 MHz ISM-band wireless sensor (specifically matching the **Nexus-TH** protocol with **House Code: xx**).
 
 ---
 
